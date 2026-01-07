@@ -1,4 +1,4 @@
-# Your startup name here
+# Fitness Tracker
 
 [My Notes](notes.md)
 
